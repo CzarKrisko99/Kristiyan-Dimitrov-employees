@@ -1,0 +1,12 @@
+C:\Users\Kristiyan Dimitrov\source\repos\Sirma_Solutions_Assigment\Sirma_Solutions_Assigment.DTO\bin\Debug\net6.0\Sirma_Solutions_Assigment.DTO.deps.json
+C:\Users\Kristiyan Dimitrov\source\repos\Sirma_Solutions_Assigment\Sirma_Solutions_Assigment.DTO\bin\Debug\net6.0\Sirma_Solutions_Assigment.DTO.dll
+C:\Users\Kristiyan Dimitrov\source\repos\Sirma_Solutions_Assigment\Sirma_Solutions_Assigment.DTO\bin\Debug\net6.0\ref\Sirma_Solutions_Assigment.DTO.dll
+C:\Users\Kristiyan Dimitrov\source\repos\Sirma_Solutions_Assigment\Sirma_Solutions_Assigment.DTO\bin\Debug\net6.0\Sirma_Solutions_Assigment.DTO.pdb
+C:\Users\Kristiyan Dimitrov\source\repos\Sirma_Solutions_Assigment\Sirma_Solutions_Assigment.DTO\obj\Debug\net6.0\Sirma_Solutions_Assigment.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan Dimitrov\source\repos\Sirma_Solutions_Assigment\Sirma_Solutions_Assigment.DTO\obj\Debug\net6.0\Sirma_Solutions_Assigment.DTO.AssemblyInfoInputs.cache
+C:\Users\Kristiyan Dimitrov\source\repos\Sirma_Solutions_Assigment\Sirma_Solutions_Assigment.DTO\obj\Debug\net6.0\Sirma_Solutions_Assigment.DTO.AssemblyInfo.cs
+C:\Users\Kristiyan Dimitrov\source\repos\Sirma_Solutions_Assigment\Sirma_Solutions_Assigment.DTO\obj\Debug\net6.0\Sirma_Solutions_Assigment.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan Dimitrov\source\repos\Sirma_Solutions_Assigment\Sirma_Solutions_Assigment.DTO\obj\Debug\net6.0\Sirma_Solutions_Assigment.DTO.dll
+C:\Users\Kristiyan Dimitrov\source\repos\Sirma_Solutions_Assigment\Sirma_Solutions_Assigment.DTO\obj\Debug\net6.0\ref\Sirma_Solutions_Assigment.DTO.dll
+C:\Users\Kristiyan Dimitrov\source\repos\Sirma_Solutions_Assigment\Sirma_Solutions_Assigment.DTO\obj\Debug\net6.0\Sirma_Solutions_Assigment.DTO.pdb
+C:\Users\Kristiyan Dimitrov\source\repos\Sirma_Solutions_Assigment\Sirma_Solutions_Assigment.DTO\obj\Debug\net6.0\Sirma_Solutions_Assigment.DTO.csproj.AssemblyReference.cache

@@ -1,0 +1,52 @@
+﻿@model Sirma_Solutions_Assigment.Web.ViewModels.DataViewModel
+
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Data</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+
+<div id="data-table">
+<table class="html-data-table">
+    <thead>
+        <tr>
+           <th>
+               Employee ID #1
+           </th>
+           <th>
+               Employee ID #2
+           </th>
+           <th>
+               Project ID
+           </th>
+           <th>
+               Days worked
+           </th>
+           
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.ProjectsAndWorktime) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => Model.EmployeeId1)
+            </td>                        
+            <td>
+                @Html.DisplayFor(modelItem => Model.EmployeeId2)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Key)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Value)
+            </td>      
+        </tr>
+}
+    </tbody>
+</table>
+</div>
+</body>
+</html>

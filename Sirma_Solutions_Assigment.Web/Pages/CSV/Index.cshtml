@@ -1,0 +1,20 @@
+﻿@page 
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="convert-button">
+    <h1 class="display-4">Drop your file here:</h1>
+    <div id="drop-area">
+
+        <form class="my-form" name="form1" method="post" enctype="multipart/form-data" action="csv/pair">
+            <div>
+                <label for="file">File CSV</label>
+                <input name="file" type="file" />
+            </div>
+            <div>
+                <input type="submit" value="Submit" />
+            </div>
+        </form>
+</div>
+</div>

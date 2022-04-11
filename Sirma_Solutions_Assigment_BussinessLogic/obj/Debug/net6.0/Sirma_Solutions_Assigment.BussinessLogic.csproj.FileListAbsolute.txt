@@ -1,0 +1,15 @@
+C:\Users\Kristiyan Dimitrov\source\repos\Sirma_Solutions_Assigment\Sirma_Solutions_Assigment_BussinessLogic\bin\Debug\net6.0\Sirma_Solutions_Assigment.BussinessLogic.deps.json
+C:\Users\Kristiyan Dimitrov\source\repos\Sirma_Solutions_Assigment\Sirma_Solutions_Assigment_BussinessLogic\bin\Debug\net6.0\Sirma_Solutions_Assigment.BussinessLogic.dll
+C:\Users\Kristiyan Dimitrov\source\repos\Sirma_Solutions_Assigment\Sirma_Solutions_Assigment_BussinessLogic\bin\Debug\net6.0\ref\Sirma_Solutions_Assigment.BussinessLogic.dll
+C:\Users\Kristiyan Dimitrov\source\repos\Sirma_Solutions_Assigment\Sirma_Solutions_Assigment_BussinessLogic\bin\Debug\net6.0\Sirma_Solutions_Assigment.BussinessLogic.pdb
+C:\Users\Kristiyan Dimitrov\source\repos\Sirma_Solutions_Assigment\Sirma_Solutions_Assigment_BussinessLogic\obj\Debug\net6.0\Sirma_Solutions_Assigment.BussinessLogic.csproj.AssemblyReference.cache
+C:\Users\Kristiyan Dimitrov\source\repos\Sirma_Solutions_Assigment\Sirma_Solutions_Assigment_BussinessLogic\obj\Debug\net6.0\Sirma_Solutions_Assigment.BussinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan Dimitrov\source\repos\Sirma_Solutions_Assigment\Sirma_Solutions_Assigment_BussinessLogic\obj\Debug\net6.0\Sirma_Solutions_Assigment.BussinessLogic.AssemblyInfoInputs.cache
+C:\Users\Kristiyan Dimitrov\source\repos\Sirma_Solutions_Assigment\Sirma_Solutions_Assigment_BussinessLogic\obj\Debug\net6.0\Sirma_Solutions_Assigment.BussinessLogic.AssemblyInfo.cs
+C:\Users\Kristiyan Dimitrov\source\repos\Sirma_Solutions_Assigment\Sirma_Solutions_Assigment_BussinessLogic\obj\Debug\net6.0\Sirma_Solutions_Assigment.BussinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan Dimitrov\source\repos\Sirma_Solutions_Assigment\Sirma_Solutions_Assigment_BussinessLogic\obj\Debug\net6.0\Sirma_Solutions_Assigment.BussinessLogic.dll
+C:\Users\Kristiyan Dimitrov\source\repos\Sirma_Solutions_Assigment\Sirma_Solutions_Assigment_BussinessLogic\obj\Debug\net6.0\ref\Sirma_Solutions_Assigment.BussinessLogic.dll
+C:\Users\Kristiyan Dimitrov\source\repos\Sirma_Solutions_Assigment\Sirma_Solutions_Assigment_BussinessLogic\obj\Debug\net6.0\Sirma_Solutions_Assigment.BussinessLogic.pdb
+C:\Users\Kristiyan Dimitrov\source\repos\Sirma_Solutions_Assigment\Sirma_Solutions_Assigment_BussinessLogic\bin\Debug\net6.0\Sirma_Solutions_Assigment.DTO.dll
+C:\Users\Kristiyan Dimitrov\source\repos\Sirma_Solutions_Assigment\Sirma_Solutions_Assigment_BussinessLogic\bin\Debug\net6.0\Sirma_Solutions_Assigment.DTO.pdb
+C:\Users\Kristiyan Dimitrov\source\repos\Sirma_Solutions_Assigment\Sirma_Solutions_Assigment_BussinessLogic\obj\Debug\net6.0\Sirma_Solutions_Assigment.BussinessLogic.csproj.CopyComplete
